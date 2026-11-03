@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "rules": [
+    {
+      "package": "com.google.android.youtube",
+      "playerViewIds": ["reel_player_page_container", "reel_recycler", "reel_watch_player"]
+    }
+  ]
+}
